@@ -1,0 +1,10 @@
+bottle_large.dat #0 in 1.8970417976379395 ns
+bottle_large.dat #1 in 1.818392038345337 ns
+bottle_large.dat #2 in 1.8416686058044434 ns
+bottle_large.dat #3 in 1.8410792350769043 ns
+bottle_large.dat #4 in 1.8420424461364746 ns
+bottle_large.dat #5 in 1.8353934288024902 ns
+bottle_large.dat #6 in 1.844881296157837 ns
+bottle_large.dat #7 in 1.846583366394043 ns
+bottle_large.dat #8 in 1.8462605476379395 ns
+bottle_large.dat #9 in 1.8763160705566406 ns
