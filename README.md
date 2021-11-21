@@ -19,6 +19,6 @@ In the end it is only necessary to run the main program "heat_main.py"
 If we want to run the program with Python or Cython go to the following line and uncomment as required:
 
 > lib_dict = {
-> #  'heat': heat,
-> #  'heat_cyt01': heat_cyt01,
+>   'heat': heat,
+>   'heat_cyt01': heat_cyt01,
 > }
